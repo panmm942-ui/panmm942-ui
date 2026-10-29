@@ -13,6 +13,11 @@
 <a href="mailto:panmm942@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" /></a>
 <img src="https://img.shields.io/badge/Thessaloniki,_Greece-0D1117?style=for-the-badge&logo=googlemaps&logoColor=58A6FF" alt="Thessaloniki, Greece" />
 
+<br/>
+
+<a href="https://github.com/agisfrn"><img src="https://img.shields.io/badge/Team-@agisfrn-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="Team: @agisfrn" /></a>
+<a href="https://github.com/d0shakis"><img src="https://img.shields.io/badge/Team-@d0shakis-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0D1117" alt="Team: @d0shakis" /></a>
+
 <br/><br/>
 
 <!-- ================= ABOUT ================= -->
@@ -22,7 +27,8 @@
 <p>
 I build software products end to end, from the first idea to a live app.<br/>
 I use modern AI development tools to design, build, and ship fast.<br/>
-My focus right now is automation: systems that do repetitive work for people.
+My focus right now is automation: systems that do repetitive work for people.<br/>
+I work as a team with <a href="https://github.com/agisfrn">@agisfrn</a> and <a href="https://github.com/d0shakis">@d0shakis</a>.
 </p>
 
 <br/>
